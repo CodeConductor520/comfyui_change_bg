@@ -21,7 +21,7 @@
 
 cd custom_nodes
 
-git clone 
+git clone https://github.com/CodeConductor520/comfyui_change_bg.git
 
 2.模型下载地址：https://huggingface.co/dreamer521/change_bg
 
