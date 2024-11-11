@@ -17,9 +17,15 @@
 
 安装
 
-1.模型下载地址：https://huggingface.co/dreamer521/change_bg
+1.手动安装
 
-2.在本文件夹下，新建“models”目录，将下载好的模型放在该文件夹下
+cd custom_nodes
+
+git clone 
+
+2.模型下载地址：https://huggingface.co/dreamer521/change_bg
+
+3.在本文件夹下，新建“models”目录，将下载好的模型放在该文件夹下
 
 工作流
 
